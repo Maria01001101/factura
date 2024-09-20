@@ -20,7 +20,7 @@ public class Factura {
     
     public void mostrarMenu() {
         int opcion;
-        
+        System.out.println("Texto Prueba");
         do {
             System.out.println("\nMenú:");
             System.out.println("1. Ingresar las facturas por servicios profesionales.");
